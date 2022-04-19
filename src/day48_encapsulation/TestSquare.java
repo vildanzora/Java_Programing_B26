@@ -14,7 +14,7 @@ public class TestSquare {
 
         System.out.println(obj.getSide());
 
-        System.out.println(obj);
+        System.err.println(obj);
 
     }
 }
