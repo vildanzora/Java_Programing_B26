@@ -1,6 +1,4 @@
-package day48_encapsulation;
-
-import day48_encapsulation.Square;
+package day48_encapsulation.square;
 
 public class TestSquare {
     public static void main(String[] args) {
