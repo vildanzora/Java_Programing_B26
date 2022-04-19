@@ -65,6 +65,10 @@ public class Pizza {
 
     public double calculatePrice() {
 
+        if( size == null) {
+            return -1;
+        }
+
         double price = size.equalsIgnoreCase("small") ? 4 : size.equalsIgnoreCase("medium") ? 6 : 8;
 
         return price + (numberOfToppings * 0.75);
