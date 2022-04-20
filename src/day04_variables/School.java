@@ -1,4 +1,4 @@
-package day4_variables;
+package day04_variables;
 
 public class School {
 
