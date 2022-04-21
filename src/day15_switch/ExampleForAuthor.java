@@ -2,7 +2,7 @@ package day15_switch;
 
 import java.util.Scanner;
 
-public class Author {
+public class ExampleForAuthor {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
