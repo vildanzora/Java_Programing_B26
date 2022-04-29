@@ -1,4 +1,6 @@
-package day47_encapsulation.day47_encapsulation;
+package day47_encapsulation.day47_encapsulation.access_modifiers;
+
+import day47_encapsulation.day47_encapsulation.access_modifiers.AccessModifier;
 
 public class AccessOutsidePackage {
     // different class, different package

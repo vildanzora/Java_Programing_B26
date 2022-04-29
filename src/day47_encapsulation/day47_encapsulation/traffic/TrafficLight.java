@@ -1,4 +1,4 @@
-package day47_encapsulation.day47_encapsulation;
+package day47_encapsulation.day47_encapsulation.traffic;
 
 public class TrafficLight {
     private String color;

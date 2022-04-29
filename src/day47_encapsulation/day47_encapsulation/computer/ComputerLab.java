@@ -1,4 +1,4 @@
-package day47_encapsulation.day47_encapsulation.Computer;
+package day47_encapsulation.day47_encapsulation.computer;
 
 public class ComputerLab {
     public static void main(String[] args) {

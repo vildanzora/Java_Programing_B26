@@ -1,4 +1,4 @@
-package day47_encapsulation.day47_encapsulation;
+package day47_encapsulation.day47_encapsulation.debit;
 
 public class Bank {
     public static void main(String[] args) {
